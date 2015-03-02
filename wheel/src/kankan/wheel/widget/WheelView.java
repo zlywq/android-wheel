@@ -332,7 +332,7 @@ public class WheelView extends View {
 	}
 
 	/**
-	 * Gets current value
+	 * Gets current value--is index value
 	 * 
 	 * @return the current value
 	 */
